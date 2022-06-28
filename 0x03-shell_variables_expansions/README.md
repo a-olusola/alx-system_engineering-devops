@@ -6,3 +6,4 @@ Listing environment/global variables
 5. List all local variables, environment variables and functions
 6. SCript to create local variable
 7. Script to create global variable
+8. Add 128 to a variable
