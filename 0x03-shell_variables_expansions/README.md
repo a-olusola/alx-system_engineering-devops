@@ -8,3 +8,4 @@ Listing environment/global variables
 7. Script to create global variable
 8. Add 128 to a variable
 9. Performing arithmetic operation using env Variables
+10. Raising one variable to the power of another variable
