@@ -7,3 +7,4 @@ Listing environment/global variables
 6. SCript to create local variable
 7. Script to create global variable
 8. Add 128 to a variable
+9. Performing arithmetic operation using env Variables
