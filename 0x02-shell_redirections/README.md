@@ -7,3 +7,4 @@ Project-2
 11. Counting all directories except the present one
 12. The last 10 newest files
 13. Making a listing unique
+14. FInd that word within files in a directory
