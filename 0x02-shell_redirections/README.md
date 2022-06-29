@@ -6,3 +6,4 @@ Project-2
 10. Deleting all .js files
 11. Counting all directories except the present one
 12. The last 10 newest files
+13. Making a listing unique
