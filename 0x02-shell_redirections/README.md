@@ -3,3 +3,4 @@ Project-1 a script that prints “Hello, World”, followed by a new line to the
 Project-2
 7. Creating complex file name
 9. Duplicate the last line of a text
+10. Deleting all .js files
