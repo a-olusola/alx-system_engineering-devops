@@ -9,3 +9,6 @@ Listing environment/global variables
 8. Add 128 to a variable
 9. Performing arithmetic operation using env Variables
 10. Raising one variable to the power of another variable
+11. Conversion of binary to decimal
+11. Combination of two letters in anyway possible
+13. How to print floats
